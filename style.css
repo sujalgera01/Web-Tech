@@ -1,0 +1,24 @@
+
+
+.theme {
+  padding: 32px 0;
+  font-family: 'Pacifico', cursive; 
+}
+
+.working-area {
+  width: 800px;
+  height: 1000px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 16px;
+  
+  
+}
+
+#slides_control {
+  position:absolute;
+  width:800px;
+  left:50%;
+  top:90px;
+  margin-left:-30px; 
+}
